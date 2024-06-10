@@ -1,0 +1,147 @@
+What is software engineering, and how does it differ from traditional programming?
+
+Software engineering is a systematic approach to the design, development, maintenance, testing, and evaluation of software.
+
+Software engineering includes the entire process of software development, from initial concept to maintenance, whereas traditional programming focuses mainly on writing code.
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Agile vs. Waterfall Models:
+
+Planning: This initial phase involves determining the scope of the project, defining the objectives, conducting feasibility studies, and establishing a project plan. It sets the foundation for the entire development process.
+
+Requirement Analysis: This includes understanding the needs and expectations of users, and any specifications that the software must meet.
+
+Design: The design phase involves creating the architecture of the software. The goal is to establish how the software will work and how different components will interact.
+
+Implementation (Coding):
+During this phase, the actual code for the software is written based on the outcome of the previous phase. Developers use programming languages and tools to create the software's functionality.
+
+Testing: Once the code is developed, it undergoes thorough testing to identify and fix any defects or bugs. 
+
+Deployment: This involves releasing the software to users.This might be uploading a mobile app to the App Store and making it available for download or to the web.
+
+Maintenance: Any bugs identified are fixed, and updates or enhancements are made as needed. This phase ensures the software continues to function correctly and meets evolving user needs.
+
+Agile vs. Waterfall Models
+
+1. Agile adapts to changes easily, Waterfall does not.
+
+2. Waterfall relies heavily on documentation, Agile focuses on working software.
+
+3. Agile involves customers throughout the process, Waterfall usually does not.
+
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
+Requirement Engineering is the  process of defining, documenting, and maintaining software requirements.
+
+The importance include:
+
+1. Clarity: Ensures all stakeholders have a clear understanding of what the software should do.
+
+2. Foundation: Provides a basis for system design and implementation.
+
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
+Modularity in software design refers to the practice of breaking down or dividing a software system into smaller, manageable, and independent modules or components.
+
+1. It improves maintainability and scalabilily as it is easier to read and understand.
+
+2. It also makes debugging easier.Modules or components can be reused in other projects.
+
+3. It improves performance as it is easy to integrate third party components or new modules.
+
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+LEVELS OF SOFTWARE TESTING
+
+Unit Testing: This involves testing individual components or functions, making sure that each of the components work well
+
+Integration Testing:this involves testing combined parts of the system making sure that the different parts work together.
+
+System Testing: This involves testing the whole system as a whole, making sure that the system functions properly
+
+Acceptance Testing: this involves checking if the system or application meets the users need
+
+Importance of Testing in Software Development
+
+1. It make sure that the application meets the user need thereby building trust
+
+2. It also reduce cost as it reduces the bugs to fix after post-deployment
+
+3. It also enhance security as testing exposes vulnerabilty and possible security threats
+
+4. it ensure that application functions well
+
+
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+Version control systems are tools that help manage changes to source code over time.
+
+Importance:
+
+1. They give room for collaboration as many developers can work on the same project
+
+2. It prevent data loss
+
+3. With this tool, it is possible to go back to the previous version if needed
+
+Examples include Git, SVN
+
+1. Git: It is popular for its features like branches and pull requests.
+
+2. SVN (Subversion) : It is known as a centralized version control, known for simplicity and ease of use.
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
+Roles of a Software Project Manager
+
+1. Planning: Define project scope, timelines, and resources.
+
+2. Execution: Oversee development and manage teams
+
+3. Monitoring: Track progress, manage risks, and adjust plans as needed.
+
+4. Delivery: Ensure the project is completed on time and within budget.
+
+Challenges faced by Software Project Manager
+
+Resource Allocation: Ensuring the right resources are available when needed.
+
+Communication: Keeping stakeholders informed and engaged.
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
+Software Maintenance is the process of updating and improving software after its deployment or release.
+
+Types of maintenance activities
+
+1. Corrective: This involves fixing bugs and errors.
+
+2. Adaptive: This involves updating software to work in new environments or OS.
+
+3. Preventive: This involves making changes to prevent future issues.
+
+Importance of Software Maintenance
+
+1. Ensures the software continues to meet user needs.
+
+2. Extends the software’s useful life due to adaptive maintanance
+
+3. Enhances the software's performance and security.
+
+4. What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+Ethical issues include:
+
+1. Privacy: Protecting user data from unauthorized access.
+
+2. Security: Ensuring software is secure and free from vulnerabilities.
+
+3. Ensuring software does not cause harm.
+
+How can software engineers ensure they adhere to ethical standards in their work?
+
+1. Transparency: Being truthful and honest about software functions and limitations.
+
+2. Staying informed about ethical practices and new regulations
+
+3. Follow Guidelines: Adhering to codes of conduct.
